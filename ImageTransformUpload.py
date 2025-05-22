@@ -1,0 +1,1 @@
+# This python script accepts an image URL (S3 object url) and type of transformation format. The script then passes this image to chatGPT to be transformed. This transformed image is then uploaded back to S3 with a prefix added to the name. 
